@@ -1,10 +1,10 @@
-# Módulo "Programación" 2017-2018
+# Módulo "Programación" 2018-2019
 
 * __Curso__: 1º Curso CFGS Desarrollo de Aplicaciones Multiplataforma (DAM1) 
 * __Centro__: IES San Andres ([www.iessanandres.com](http://www.iessanandres.com))
 * __Profesor__: Miguel Bayón Alonso (miguel.bayon@iesssanandres.com)
-* __Curso__: 2017-2018
-* __Duración__: 256 horas (septiembre 2017 a junio 2018)
+* __Curso__: 2019-2019
+* __Duración__: 256 horas (septiembre 2018 a junio 2019)
 
 ### Descripción general
 
