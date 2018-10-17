@@ -1,6 +1,6 @@
 ### Tipos de datos primitivos
 
-Aunque más adelante veremos por qué les llamamos *tipos primitivos*, por ahora nos basta con saber que los tipos de datos son nombres que les ponemos a un conjunto de valores. Por ejemplo, al conjunto de números enteros comprendidos entre -128 y 127 le llamos tipo de datos `byte`.
+Aunque más adelante veremos por qué les llamamos *tipos primitivos*, por ahora nos basta con saber que los tipos de datos son nombres que les ponemos a conjuntos de valores. Por ejemplo, al conjunto de números enteros comprendidos entre -128 y 127 le llamamos tipo de datos `byte`.
 
 En Java existen muchos tipos de datos diferentes:
 
