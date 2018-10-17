@@ -18,6 +18,6 @@ En Java existen muchos tipos de datos diferentes:
 
 #### Notas
 
-Un número sin punto decimal es interpretado como un valor de tipo `int`. Java puede convertir valoes de tipo `int` automáticamente a un tipo de dato entero más pequeño siempre que el valor quepa en él. Sin embargo, Java no puede convertir automáticamente un valor de tipo `int` a un `long`. Por este motivo debes  poner una L detrás de un número literal para indicar que quieres que sea directamente un `long` en vez de un `int`.
+Un número sin punto decimal es interpretado como un valor de tipo `int`. Java puede convertir valores de tipo `int` automáticamente a un tipo de dato entero más pequeño siempre que el valor quepa en él. Sin embargo, Java no puede convertir automáticamente un valor de tipo `int` a un `long`. Por este motivo debes  poner una L detrás de un número literal para indicar que quieres que sea directamente un `long` en vez de un `int`.
 
 Un número escrito con un punto decimal se entiende por defecto que es `double`. Puedes especificar que quieres que sea `float` poniendo una `F` después del numero.
