@@ -7,9 +7,9 @@ import org.junit.Test;
  * Clase Test
  * 
  */
-public class Test0133
+public class Actividad0133Test
 {
-    public Test0133()
+    public Actividad0133Test()
     {        
     }
 
