@@ -96,7 +96,7 @@ public class UserVoiceTest
 
         // Probamos a dar de alta a un nuevo usuario con un correo ya registrado en el sistema
         Usuario usuario12 = new Usuario("Linda Clyaton", "gleckenby9@domainmarket.com");
-        assertEquals(false, app.addUsuario(usuario11));
+        assertEquals(false, app.addUsuario(usuario12));
 
         // Comprobamos el numero actual de ideas registradas
         assertEquals(0, app.getNumeroIdeasRegistradas());
