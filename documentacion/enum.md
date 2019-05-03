@@ -26,7 +26,7 @@ Demarcacion delantero = Demarcacion.DELANTERO;
 // Devuelve un String con el nombre de la constante (DELANTERO)
 delantero.name();     
 
-// Devuelve un String con el nombre de la constante (DELANTERO)
+// Devuelve lo mismo que el método anterior (DELANTERO)
 delantero.toString(); 
 
 // Devuelve un entero con la posición del enum según está declarada (3)
