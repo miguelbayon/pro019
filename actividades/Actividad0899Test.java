@@ -6,12 +6,12 @@ import org.junit.Test;
 /**
  * The test class GooglePlayTest01.
  */
-public class GooglePlayTest01
+public class Actividad0899Test
 {
     /**
-     * Default constructor for test class GooglePlayTest
+     * Default constructor for test class Actividad0899Test
      */
-    public GooglePlayTest01()
+    public Actividad0899Test()
     {
     }
 
@@ -108,8 +108,7 @@ public class GooglePlayTest01
         assertEquals(102,((Pelicula)pelicula2).getDuracion());        
         assertEquals("FullHD",((Pelicula)pelicula1).getCalidad());
         assertEquals("HD",((Pelicula)pelicula2).getCalidad());
-        
-                        
+                                
         // Se añaden los productos a la tienda
         assertEquals(0, googlePlay.getNumeroProductos());        
         googlePlay.addProducto(aplicaci1);
