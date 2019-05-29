@@ -11,34 +11,8 @@ import org.junit.Test;
  * @author  (your name)
  * @version (a version number or a date)
  */
-public class Test0450
+public class Actividad0450Test
 {
-    /**
-     * Default constructor for test class Test0450
-     */
-    public Test0450()
-    {
-    }
-
-    /**
-     * Sets up the test fixture.
-     *
-     * Called before every test case method.
-     */
-    @Before
-    public void setUp()
-    {
-    }
-
-    /**
-     * Tears down the test fixture.
-     *
-     * Called after every test case method.
-     */
-    @After
-    public void tearDown()
-    {
-    }
     
     @Test
     public void testCommit01()
