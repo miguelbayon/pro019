@@ -11,8 +11,8 @@ public class Actividad0551Test {
         String casos = "1000\n" +
                 "2000\n" +
                 "500\n";
-        String seEspera = "40 25 \n" +
-                "50 40 \n" +
+        String seEspera = "40 25\n" +
+                "50 40\n" +
                 "25 20\n";
         assertEquals(seEspera, objetoBase.calcularDimensiones(casos));
     }
